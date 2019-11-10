@@ -15,7 +15,7 @@
 	}	
 }
 h1 {
-  font-size: 250%;
+  font-size: 350%;
   font-family: Arial, Helvetica, Verdana, sans-serif;
   color: #707070;
 }
@@ -37,7 +37,7 @@ nav{
 footer{
 	font-size: 100%;
   font-family: Arial, Helvetica, Verdana, sans-serif;
-  color: 2699fb;
+  color: #000000;
 }
 background{
 	color: #aaaaaa;
@@ -55,7 +55,7 @@ background{
 .header1 {
   font-size: 200%;
   font-family: Arial, Helvetica, Verdana, sans-serif;
-  color: #707070;
+  color: #000000;
   padding-left: 2em;
 }
 .header2 {
@@ -86,12 +86,14 @@ background{
   font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 #cookie{
-	
+	z-index: 2;
 	Color: #2699fb;
 	font-size: 300%;
 }
-
-
+li{
+	color: #444444;
+	font-size: 175%;
+}
 
 
 
